@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-| Title  | Packages  | Code &ensp; |
+| Title  | Packages  | &ensp; Code &ensp; |
 | ------------ |-----------| -------------------|
 | Cleaning, Stop Words Removal, Stemming, Lemmatization, Bag of Words, TF-IDF | NLTK, SkLearn | [NLP 1](https://github.com/chatterjeesaurabh/Natural-Language-Processing/blob/main/NLP_1_BoW_TFIDF.ipynb) |
 | Word2Vec | Gensim | [NLP 2](https://github.com/chatterjeesaurabh/Natural-Language-Processing/blob/main/NLP_2_Word2Vec.ipynb) |
