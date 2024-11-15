@@ -9,3 +9,4 @@
 | 5 | Fake News Classifier using LSTM | NLTK, Keras | [NLP 5](https://github.com/chatterjeesaurabh/Natural-Language-Processing/blob/main/NLP_5_Fake_News_Classifier_LSTM.ipynb) |
 | 6 | [Topic Modeling with LDA](https://github.com/chatterjeesaurabh/Amazon-Reviews-Topic-Modelling-with-LDA) | NLTK, spaCy, Gensim, Pandas | [Repo](https://github.com/chatterjeesaurabh/Amazon-Reviews-Topic-Modelling-with-LDA) |
 | 7 | [Topic Modeling with BERTopic](https://github.com/chatterjeesaurabh/Topic-Modeling-arXiv-Abstracts-using-BERTopic) | BERTopic | [Repo](https://github.com/chatterjeesaurabh/Topic-Modeling-arXiv-Abstracts-using-BERTopic) |
+| 8 | [Dialogue Summarization with Large Language Model](https://github.com/chatterjeesaurabh/Dialogue-Summarization-with-Large-Language-Model) | Hugging Face Transformers | [Repo](https://github.com/chatterjeesaurabh/Dialogue-Summarization-with-Large-Language-Model) |
